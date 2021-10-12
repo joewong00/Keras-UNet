@@ -4,6 +4,8 @@
 
 _Week 3 Assignment 2_
 
+This repository provides the answer for coursera deep learning specialization course 4, week 3 assignment 2: Image Segmentation with U-Net. Dataset used here are provided in the course. You can however, use the code for training your own custom dataset, or modify it for other usage.
+
 ### U-Net Architecture
 ![](images/unet.png)
 
